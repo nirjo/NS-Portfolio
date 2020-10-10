@@ -3,7 +3,7 @@ import React from 'react';
 const  About =() => {
         return (
             <div className="condiv">
-            <h1 className="subtopic">About Me</h1>
+            <h1 className="subtopic">About-Me</h1>
             <div className="hr_line line2"><div className="inner2"></div></div>
             <h2 className="abouthead">Nirmalraj Joseph</h2>
             <p>Full-iStack Developer</p>
