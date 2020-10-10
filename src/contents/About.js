@@ -6,7 +6,7 @@ const  About =() => {
             <h1 className="subtopic">About Me</h1>
             <div className="hr_line line2"><div className="inner2"></div></div>
             <h2 className="abouthead">Nirmalraj Joseph</h2>
-            <p>Full-giStack Developer</p>
+            <p>Full-iStack Developer</p>
             <br></br>
             <p className="p10"> i have done My Engineering degree with information Technology 
             Pondicherry University and Masters in Computer Graphics from Linloping University SWEDEN. 
