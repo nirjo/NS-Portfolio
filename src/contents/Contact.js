@@ -2,7 +2,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import Social from '../components/Social';
-import Map from '../img/map.png';
+import Map from '../img/Maps/Maps-1.jpg';
 
 const Contact =()=> {
         return (
