@@ -6,9 +6,9 @@ const  About =() => {
             <h1 className="subtopic">About Me</h1>
             <div className="hr_line line2"><div className="inner2"></div></div>
             <h2 className="abouthead">Nirmalraj Joseph</h2>
-            <p>Full Stack Developer</p>
+            <p>Full-giStack Developer</p>
             <br></br>
-            <p className="p10"> i have done my Engineering degree with information Technology 
+            <p className="p10"> i have done My Engineering degree with information Technology 
             Pondicherry University and Masters in Computer Graphics from Linloping University SWEDEN. 
             Web development is my center of interest, i always
             love the idea of cross-platform development, 1-n one code base deploy into almost
